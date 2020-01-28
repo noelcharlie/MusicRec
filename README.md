@@ -4,12 +4,11 @@ To build a simple music recommendation system to illustrate basic machine learni
 
 ## Description 
 
-The goal of a Recommender System is to dentify products most relevant to the user
-There are many ways to identify common functionalities between code 
-The first concept illustrated is a popularity based recommender system
+The goal of a Recommender System is to dentify products most relevant to the user. To study patterns between users and songs and to provide recommendations based on it.
 
 ## Motivation
 -Inspired by the various music recommnedation applications like Spotify and Saavn, we tried to implement the same by displaying a simple song recommendation system.
+
 ## Technologies- 
 Python 3.6
 Jupyter Notebook
